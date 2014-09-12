@@ -21,6 +21,6 @@ Speed up ghost
 
 1、在ghost根目录下创建tools文件夹
 
-2、将speedupghost.py文件放入tools下
+2、将speedupghost.py文件放入tools
 
 3、运行speedupghost.py
